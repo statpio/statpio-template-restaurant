@@ -1,0 +1,15 @@
+{
+  "name": "Wren & Barrel",
+  "short_name": "WB",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#1f3d2b",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

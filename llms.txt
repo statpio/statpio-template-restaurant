@@ -1,0 +1,54 @@
+# Wren & Barrel
+
+> Seasonal plates, a long bar and no rush
+
+Wren & Barrel is a neighbourhood bistro in Chapel Allerton, Leeds: a short seasonal menu, natural wines and cocktails, open Tuesday to Sunday.
+
+## About
+
+We opened in 2019 in an old ironmonger’s with forty seats, a long oak bar and a kitchen you can see into. The menu changes with what the farms around Leeds have that week, which is why it fits on one page.
+
+Lunch is quick if you need it to be; dinner is not. Walk-ins are welcome at the bar, and the whole room can be booked for twenty-five or more.
+
+## Menu
+
+- **Burrata, charred peaches, basil oil** (£11): Sourdough from Leeds Bread Co-op on the side.
+- **Hand-cut tagliatelle, brown butter, sage** (£16): Fresh pasta made every morning.
+- **Roast cauliflower, romesco, almonds** (£14): Vegan as it comes.
+- **Pan-roasted hake, fennel, salsa verde** (£22): Day-boat fish from Whitby.
+- **Lemon posset, shortbread** (£7): Or a scoop of brown bread ice cream.
+- **Flat white, Dark Woods Coffee** (£3.20): Oat milk at no extra charge.
+
+## Drinks
+
+- **House red: Cinsault, Languedoc** (£6.50 glass, £28 bottle)
+- **House white: Picpoul de Pinet** (£6.50 glass, £28 bottle)
+- **Negroni** (£9)
+- **Northern Monk pale ale** (£5.20)
+
+## Contact
+
+- Address: 14 Harrogate Road, Chapel Allerton, Leeds LS7 4PA
+- Hours: Tuesday to Thursday 12:00 to 22:00; Friday and Saturday 12:00 to 23:00; Sunday 12:00 to 18:00; Monday closed
+- Phone: 0113 496 0152
+- Email: hello@wrenandbarrel.example
+
+## Questions
+
+### Do I need to book?
+
+For dinner on Friday and Saturday, yes. Otherwise walk in; there are eight seats at the bar kept for walk-ins every service.
+
+### Can you cater for allergies and vegan diets?
+
+Yes. The menu marks what is vegan and gluten-free, and the kitchen will adapt most dishes. Tell us when you book or when you arrive.
+
+### Can we book the whole room?
+
+For twenty-five to forty guests, any day. Send a request with the date and we reply with a menu and a price per head.
+
+### Are dogs welcome?
+
+Well-behaved dogs are welcome at the bar and on the terrace.
+
+_Restaurant website template by Statpio._
